@@ -24,7 +24,7 @@
 .mainContainer_listContainer{
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    grid-template-rows: repeat(2,5rem);
+    grid-template-rows: repeat(6,5rem);
     gap: 10px;
     padding: 1rem;
     background-color: rgb(140, 150, 164);

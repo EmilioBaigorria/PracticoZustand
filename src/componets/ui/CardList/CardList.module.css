@@ -1,0 +1,23 @@
+.mainCominerCard{
+    width: 100%;
+    background-color: rgb(210, 189, 189);
+    border-radius: .4rem;
+    padding: .4rem;
+    display: flex;
+    justify-content: space-between;
+    height: 10vh;
+}
+.mainCominerCard_Actions{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+.mainCominerCard_Actions button{
+    background-color: rgb(191, 205, 225);
+    border-radius: .3rem;
+    border: .01px solid rgb(129, 196, 230);
+}
+.mainCominerCard_Actions button :hover{
+    cursor: pointer;
+}

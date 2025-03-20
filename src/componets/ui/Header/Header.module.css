@@ -1,0 +1,13 @@
+.containerHeader{
+    width: 100vw;
+    height: 8vh;
+    background-color: rgb(13, 159, 250);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 2px 2px ;
+}
+.containerTittleHeader{
+    margin-left: 4vw;
+
+}

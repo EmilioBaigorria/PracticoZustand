@@ -1,0 +1,52 @@
+{
+  "tareas": [
+    {
+      "id": "Wed Mar 31 2025",
+      "titulo": "Tarea1",
+      "description": "Tarea1",
+      "fechaLimite": "2025-03-12"
+    },
+    {
+      "id": "Wed Mar 30 2025",
+      "titulo": "Tarea2",
+      "description": "Tarea2",
+      "fechaLimite": "2025-03-11"
+    },
+    {
+      "id": "Wed Mar 29 2025",
+      "titulo": "Tarea3",
+      "description": "Tarea3",
+      "fechaLimite": "2025-03-20"
+    },
+    {
+      "id": "Wed Mar 28 2025",
+      "titulo": "Tarea4",
+      "description": "Tarea4",
+      "fechaLimite": "2025-03-05"
+    },
+    {
+      "id": "Wed Mar 27 2025",
+      "titulo": "Tarea5",
+      "description": "Tarea5",
+      "fechaLimite": "2025-03-01"
+    },
+    {
+      "id": "Wed Mar 26 2025",
+      "titulo": "Tarea6",
+      "description": "Tarea6",
+      "fechaLimite": "2025-03-20"
+    },
+    {
+      "id": "Wed Mar 22 2025",
+      "titulo": "Tarea7",
+      "description": "Tarea7",
+      "fechaLimite": "2025-03-07"
+    },
+    {
+      "id": "Wed Mar 21 2025",
+      "titulo": "Tarea8",
+      "description": "Tarea8",
+      "fechaLimite": "2025-03-03"
+    }
+  ]
+}
